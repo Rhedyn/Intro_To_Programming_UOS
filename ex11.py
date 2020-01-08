@@ -13,3 +13,5 @@ def GuessGame(floor, ceil):
 	print(f"Guess correct! Took {g_count} guesses.")
 
 GuessGame(1, 5)
+
+input("Program Finished...")
